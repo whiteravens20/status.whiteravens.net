@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: White Ravens Service Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "White Ravens - Monitor Statusu Usługi"
   introMessage: Strona statusów przedstawiająca działanie usług WR
   navbar:
     - title: Status
