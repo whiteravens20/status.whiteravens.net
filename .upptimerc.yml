@@ -5,7 +5,10 @@ repo: status.whiteravens.net # The name of this repository
 sites:
   - name: White Ravens Home
     url: https://whiteravens.net
+    assignees:
+      - pavlojs
   - name: Cloudflare DNS Resolver
+    icon: https://raw.githubusercontent.com/whiteravens20/status.whiteravens.net/master/assets/cloudflare.svg
     check: "tcp-ping"
     url: 1.1.1.1
     port: 53
@@ -19,11 +22,13 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: White Ravens Service Status
-  introTitle: "White Ravens - Monitor Statusu Usługi"
-  introMessage: Strona statusów przedstawiająca działanie usług WR
+  introTitle: "Monitor Statusu Usług WR"
+  introMessage: Strona przedstawiająca status działania usług WR i stron zintegrowanych
   navbar:
     - title: Status
       href: /
+    - title: WR Home
+      href: https://whiteravens.net
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
