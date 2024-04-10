@@ -22,19 +22,19 @@
     "url": "https://whiteravens.goatcounter.com",
     "icon": "https://icons.duckduckgo.com/ip3/whiteravens.goatcounter.com.ico",
     "slug": "analitics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 737,
-    "timeWeek": 658,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "status": "up",
+    "uptime": "95.55%",
+    "uptimeDay": "74.09%",
+    "uptimeWeek": "95.55%",
+    "uptimeMonth": "95.55%",
+    "uptimeYear": "95.55%",
+    "time": 645,
+    "timeDay": 646,
+    "timeWeek": 645,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 373
     }
   },
   {
