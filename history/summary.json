@@ -22,7 +22,7 @@
     "url": "https://whiteravens.goatcounter.com",
     "icon": "https://icons.duckduckgo.com/ip3/whiteravens.goatcounter.com.ico",
     "slug": "analitics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 658,
     "timeMonth": 658,
     "timeYear": 658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-10": 0
+    }
   },
   {
     "name": "Cloudflare DNS Resolver",
