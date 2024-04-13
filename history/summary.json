@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 161,
-    "timeWeek": 160,
-    "timeMonth": 154,
-    "timeYear": 154,
+    "time": 151,
+    "timeDay": 91,
+    "timeWeek": 145,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/whiteravens.goatcounter.com.ico",
     "slug": "analitics",
     "status": "up",
-    "uptime": "96.57%",
+    "uptime": "96.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.30%",
-    "uptimeMonth": "96.57%",
-    "uptimeYear": "96.57%",
-    "time": 646,
-    "timeDay": 770,
-    "timeWeek": 672,
-    "timeMonth": 646,
-    "timeYear": 646,
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "96.97%",
+    "time": 657,
+    "timeDay": 772,
+    "timeWeek": 671,
+    "timeMonth": 657,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2024-04-10": 373
     }
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 4,
     "timeDay": 2,
-    "timeWeek": 6,
+    "timeWeek": 5,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 419,
-    "timeWeek": 595,
-    "timeMonth": 499,
-    "timeYear": 499,
+    "time": 494,
+    "timeDay": 405,
+    "timeWeek": 542,
+    "timeMonth": 494,
+    "timeYear": 494,
     "dailyMinutesDown": {}
   }
 ]
