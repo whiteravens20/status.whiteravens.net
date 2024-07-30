@@ -22,7 +22,7 @@
     "url": "https://whiteravens.goatcounter.com",
     "icon": "https://icons.duckduckgo.com/ip3/whiteravens.goatcounter.com.ico",
     "slug": "analitics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 858,
     "timeYear": 787,
     "dailyMinutesDown": {
+      "2024-07-30": 0,
       "2024-05-26": 16,
       "2024-05-25": 222,
       "2024-04-23": 33,
