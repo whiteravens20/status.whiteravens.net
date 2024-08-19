@@ -13,7 +13,7 @@
     "time": 152,
     "timeDay": 170,
     "timeWeek": 129,
-    "timeMonth": 150,
+    "timeMonth": 151,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://whiteravens.goatcounter.com",
     "icon": "https://icons.duckduckgo.com/ip3/whiteravens.goatcounter.com.ico",
     "slug": "analitics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,9 +31,10 @@
     "time": 764,
     "timeDay": 573,
     "timeWeek": 662,
-    "timeMonth": 606,
+    "timeMonth": 607,
     "timeYear": 764,
     "dailyMinutesDown": {
+      "2024-08-19": 0,
       "2024-05-26": 16,
       "2024-05-25": 222,
       "2024-04-23": 33,
@@ -72,7 +73,7 @@
     "time": 493,
     "timeDay": 473,
     "timeWeek": 441,
-    "timeMonth": 475,
+    "timeMonth": 477,
     "timeYear": 493,
     "dailyMinutesDown": {}
   }
