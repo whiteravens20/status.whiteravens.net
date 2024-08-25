@@ -64,17 +64,19 @@
     "url": "https://store.steampowered.com",
     "icon": "https://icons.duckduckgo.com/ip3/store.steampowered.com.ico",
     "slug": "steam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 265,
-    "timeWeek": 522,
-    "timeMonth": 489,
-    "timeYear": 494,
-    "dailyMinutesDown": {}
+    "time": 493,
+    "timeDay": 303,
+    "timeWeek": 499,
+    "timeMonth": 484,
+    "timeYear": 493,
+    "dailyMinutesDown": {
+      "2024-08-25": 0
+    }
   }
 ]
