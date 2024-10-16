@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/whiteravens.goatcounter.com.ico",
     "slug": "analitics",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.01%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.43%",
     "time": 725,
     "timeDay": 753,
     "timeWeek": 647,
@@ -69,9 +69,9 @@
     "url": "https://store.steampowered.com",
     "icon": "https://icons.duckduckgo.com/ip3/store.steampowered.com.ico",
     "slug": "steam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -81,6 +81,7 @@
     "timeMonth": 623,
     "timeYear": 523,
     "dailyMinutesDown": {
+      "2024-10-16": 0,
       "2024-08-25": 67
     }
   }
